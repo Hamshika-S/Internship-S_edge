@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(40, 38, 38);
+    align-items: center;
+    display: flex;  
+}
+
+
+.floatbox{
+    background-color: #444141;
+    width: 40%;
+    height: 40%;
+    display:flex;
+    flex-direction: column;
+    margin: auto;
+    color:bisque;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+
+
+}
+.form1{
+    align-items: center;
+    
+}
+.username{
+    
+    color:bisque;
+    padding-top:10px;
+
+}
+.button1{
+    background-color: bisque;
+    color:black;
+    border:0cm;
+    margin-left: 55px;
+    
+    
+}
+    
